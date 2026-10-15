@@ -1,4 +1,4 @@
-# Credits – Maple Grove Family Dental (demo)
+# Credits – صالون لوميير للتجميل (demo)
 
 - All artwork is original SVG drawn in code for this page; OG image generated with Pillow using DejaVu Sans (free licence).
 - No photos, stock images, real business names or trademarks are used.
